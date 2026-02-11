@@ -1,2 +1,2 @@
 # zup
-My site for zeroup
+My site for zeroup.
